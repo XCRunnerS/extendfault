@@ -1,0 +1,45 @@
+# This just ignores development files
+*.log
+*.pdn
+temp.*
+*.temp
+# This makes sure no executables can be uploaded by default
+*.exe
+*.msi
+*.jar
+# ignore wip folder
+*/wip
+/wip
+wip
+*/ref
+/ref
+ref
+
+# Compiled class file
+*.class
+
+# Log file
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.tar.gz
+*.tar
+*.tar.*
+*.rar
+*.7z
+*.zip
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+*/.git
+.git
