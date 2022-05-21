@@ -1,0 +1,30 @@
+{
+    "variants": {
+        "": [
+            {
+                "model": "block/allium",
+                "weight": 6
+            },
+            {
+                "model": "block/allium1",
+                "weight": 4
+            },
+            {
+                "model": "block/allium2",
+                "weight": 4
+            },
+            {
+                "model": "block/allium3",
+                "weight": 4
+            },
+            {
+                "model": "block/allium4",
+                "weight": 4
+            },
+            {
+                "model": "block/allium5",
+                "weight": 2
+            }
+        ]
+    }
+}
